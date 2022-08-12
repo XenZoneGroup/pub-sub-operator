@@ -1,5 +1,7 @@
 # Pub/Sub Operator
 
+**ARCHIVED**: This isn't being used in production any more (if it ever was)
+
 A set of kubernetes operators to create GCloud Pub/Sub Topics and Subscribers.
 
 # Quick start
